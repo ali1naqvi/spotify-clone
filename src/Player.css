@@ -1,0 +1,4 @@
+.player-body {
+    /*have them next to each other*/
+    display: flex;
+}
